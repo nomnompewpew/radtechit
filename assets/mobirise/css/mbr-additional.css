@@ -711,10 +711,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-s65YaQecOy {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-top: 75px;
+  padding-bottom: 0px;
+  background-color: #a233a7;
 }
 .cid-s65YaQecOy P {
   color: #767676;
+}
+.cid-s66RQoIRwh {
+  background-image: url("../../../assets/images/rad-tech-it.gif");
 }
